@@ -60,8 +60,3 @@ Welcome to the Real Estate Booking Website, a dynamic and responsive platform bu
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## Acknowledgments
-
-- Thanks to the React.js community for their support and resources.
-- Special thanks to everyone who has contributed to this project.
