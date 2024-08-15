@@ -61,10 +61,6 @@ Welcome to the Real Estate Booking Website, a dynamic and responsive platform bu
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the React.js community for their support and resources.
