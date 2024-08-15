@@ -1,3 +1,4 @@
+
 # Real Estate Booking Website
 
 Welcome to the Real Estate Booking Website, a dynamic and responsive platform built using React.js. This website allows users to seamlessly search for and book properties, such as rooms, flats, or houses, based on name and location.
